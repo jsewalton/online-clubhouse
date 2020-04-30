@@ -1,0 +1,21 @@
+div.jumbotron.hero-music {
+  color: #000000;
+  text-align: center;
+  background: url('../../assets/img/clubhouse.png');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #000000;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  color: #142d6f;
+}
+
